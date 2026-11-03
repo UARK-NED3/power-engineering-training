@@ -1,0 +1,27 @@
+# Operating-system and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environments and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Generated output and raw experimental data
+build/
+dist/
+output/
+tmp/
+raw-data/
+*.bak
+~$*
+
+# Large media and proprietary office exports require separate review
+*.mp4
+*.mov
+*.zip
+*.msg
+*.eml
