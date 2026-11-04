@@ -27,6 +27,10 @@ This repository contains an original curriculum scaffold, source-governance rule
 
 See the curriculum map in docs/curriculum/curriculum-map.md for learning outcomes, governing quantities, and activity options. The module-centered learning test is specified in docs/curriculum/module-cooling-interface-capstone.md.
 
+## Four-week student plan
+
+The four-week study and hands-on sequence in docs/curriculum/four-week-study-and-practice-plan.md combines weekly study guides, supervised module practice, private weekly updates, and an IEEE-ready progress-report path. It is designed to be assigned to an individual student without placing that student's identity, updates, raw data, or partner-lab information in this public repository.
+
 ## Source and ownership boundary
 
 The 2025 IEEE EPS UHE materials informed the topic sequence at a high level. This repository must not contain copied text, slides, figures, photographs, diagrams, procedures, tables, screenshots, media, equipment settings, or derivative redrawings from those materials or from partner laboratories.
