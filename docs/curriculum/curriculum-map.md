@@ -90,7 +90,7 @@ This steady-state relation assumes a defined reference location, an approximatel
 
 **Question:** What evidence supports one bounded design or research conclusion?
 
-**Student output:** A short technical report and five-minute presentation that states the physical problem, system boundary, method, evidence class, results, limitations, and next experiment or model improvement.
+**Student output:** Complete the module cooling-interface capstone specified in module-cooling-interface-capstone.md. The final report and five-minute presentation state the physical problem, system boundary, method, evidence class, results, limitations, and next experiment or model improvement.
 
 ## Readiness gates for hardware work
 

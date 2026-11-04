@@ -25,7 +25,7 @@ This repository contains an original curriculum scaffold, source-governance rule
 9. Data reduction, uncertainty, and technical communication
 10. Integrated mini-project and evidence review
 
-See the curriculum map in docs/curriculum/curriculum-map.md for learning outcomes, governing quantities, and activity options.
+See the curriculum map in docs/curriculum/curriculum-map.md for learning outcomes, governing quantities, and activity options. The module-centered learning test is specified in docs/curriculum/module-cooling-interface-capstone.md.
 
 ## Source and ownership boundary
 
@@ -56,6 +56,6 @@ Each learner maintains a notebook from templates/lab-notebook-template.md, compl
     templates/            Reusable learner documentation templates
     .github/              Contribution review prompts
 
-## Before publication
+## Public release status
 
-Choose a license and confirm the public-release review process before changing repository visibility or accepting external contributions. The source boundary remains in force even after a license is selected.
+This repository is public. No reuse license has been selected yet, so public access does not grant reuse permission. Choose an appropriate license before accepting external contributions or describing the content as openly licensed. The source boundary remains in force after a license is selected.
